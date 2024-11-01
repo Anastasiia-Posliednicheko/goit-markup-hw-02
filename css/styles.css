@@ -6,11 +6,11 @@
 
 
 .logo {
-    font-family: "Raleway", sans-serif,
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.03em; 
     text-transform: uppercase;
     color: #4d5ae5; 
 }
@@ -102,14 +102,22 @@
 
 
 .title-team {
-    background-color: #F4F4FD
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11111;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+        background-color: #F4F4FD;
+        text-transform: capitalize;
+
 }
 
 
 .subtitle {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1, 11;
+    line-height: 1,2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -128,13 +136,13 @@
 }
 
 .title-portfolio {
-    background-color: #FFFFFF
-        font-size: 36px;
+     font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
+        background-color: #FFFFFF
 }
 
 .subject {
