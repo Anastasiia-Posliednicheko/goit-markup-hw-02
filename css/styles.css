@@ -15,7 +15,7 @@
     color: #4d5ae5; 
 }
 
-.accent{
+.accent-logo{
             font-weight: 700;
             font-size: 18px;
             line-height: 1.17;
@@ -83,7 +83,10 @@
      background-color: #404BBF;
 }
 
-.Benefits {
+.list{
+
+}
+.benefits {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -91,7 +94,7 @@
         color: #2e2f42;
 }
 
-.text {
+.text-benefits {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -114,11 +117,11 @@
         text-transform: capitalize;
 
 }
-.list {
+.list-team {
     background-color: #FFFFFF;
 }
 
-.subtitle {
+.subtitle-team {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -129,7 +132,7 @@
     background-color: #FFFFFF
 }
 
-.text-subtitle {
+.text-subtitle-team {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -149,7 +152,7 @@
         background-color: #FFFFFF
 }
 
-.subject {
+.subject-portfolio {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -157,7 +160,7 @@
     color: #2e2f42;
 }
 
-.text-subject {
+.text-subject-portfolio {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
